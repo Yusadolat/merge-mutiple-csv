@@ -13,3 +13,7 @@ chmod +x merge.sh
 Then run the script by typing the following
 
 ./merge.sh
+
+Thanks.
+
+
